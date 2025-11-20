@@ -4,7 +4,7 @@ This repository contains the coursework and projects developed for the **Data Mi
 
 The projects cover the end-to-end data mining process, from data exploration and preprocessing to supervised and unsupervised learning implementations.
 
-## Project Overview
+## Projects Overview
 
 ### 1. Exploratory Data Analysis (EDA)
 **Focus:** Data Preprocessing & Visualization
