@@ -31,10 +31,9 @@ The projects are implemented in **Python** (Jupyter Notebooks) using the followi
 * **Machine Learning:** `scikit-learn`
 
 ## Course Details
+* **Author:** Mahsa Goodarzi
 * **Course:** Data Mining
 * **Institution:** Amirkabir University of Technology (Tehran Polytechnic)
 * **Instructor:** Dr. Fatemeh Shakeri
 * **Semester:** Spring 2024
 
----
-*This repository is for educational purposes.*
